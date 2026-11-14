@@ -1,0 +1,12 @@
+torch==2.14.1+cu130
+numpy==2.4.6
+pandas==2.2.3
+transformers==5.22.1
+accelerate==1.15.0
+peft==0.21.2
+bitsandbytes==0.50.2
+sentence-transformers==5.7.0
+bert-score==0.3.13
+scikit-learn==1.6.1
+scipy==1.16.3
+pytorch-crf==0.7.2
